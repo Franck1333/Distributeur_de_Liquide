@@ -17,14 +17,14 @@ git clone https://github.com/Franck1333/Distributeur_de_Liquide.git
 To use the project, you will need some Hardware :
   
 ```  
-An Arduino Board		(here: Arduino Nano, https://tinyurl.com/arduinoMiniboards)
-An OLED Screen 			(here: 128 x 64, https://tinyurl.com/oledscreenarduino)
-A Relay					(https://tinyurl.com/RelayDDL)
-Four LEDs 				(For the SWAGG, https://tinyurl.com/LEDsDDL)
+An Arduino Board		    (here: Arduino Nano, https://tinyurl.com/arduinoMiniboards)
+An OLED Screen 			    (here: 128 x 64, https://tinyurl.com/oledscreenarduino)
+A Relay					        (https://tinyurl.com/RelayDDL)
+Four LEDs 				      (For the SWAGG, https://tinyurl.com/LEDsDDL)
 Four 220 Ohms Resistors (To protect the LEDs, https://tinyurl.com/resistorDDL)
-One 1K Ohm Resistor		(To use a button with the board +, https://tinyurl.com/resistorDDL)
-The pump 				(https://tinyurl.com/pumpDDL)
-Two Button				(To Interact with the board, https://tinyurl.com/buttonDDL)
+One 1K Ohm Resistor		  (To use a button with the board +, https://tinyurl.com/resistorDDL)
+The pump 				        (https://tinyurl.com/pumpDDL)
+Two Button				      (To Interact with the board, https://tinyurl.com/buttonDDL)
 ```  
  *Also, a breadboard or PCB and also Wires and tools needed to solder.*
  
@@ -68,7 +68,7 @@ In this project we've got some folders
 
 #### Folders
 ```
-- 3D_Model: 3D Files needed to create a cases for the Thermometer.
+- 3D_Model: 3D Files needed to create a cases for the device.
 - Pictures: Pictures of the project.
 ```
 #### Files in "/Distributeur_de_Liquide/"
