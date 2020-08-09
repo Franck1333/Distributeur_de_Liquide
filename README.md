@@ -17,14 +17,14 @@ git clone https://github.com/Franck1333/Distributeur_de_Liquide.git
 To use the project, you will need some Hardware :
   
 ```  
-An Arduino Board		    (here: Arduino Nano, https://tinyurl.com/arduinoMiniboards)
-An OLED Screen 			    (here: 128 x 64, https://tinyurl.com/oledscreenarduino)
-A Relay					        (https://tinyurl.com/RelayDDL)
-Four LEDs 				      (For the SWAGG, https://tinyurl.com/LEDsDDL)
+An Arduino Board  (here: Arduino Nano, https://tinyurl.com/arduinoMiniboards)
+An OLED Screen  (here: 128 x 64, https://tinyurl.com/oledscreenarduino)
+A Relay (https://tinyurl.com/RelayDDL)
+Four LEDs (For the SWAGG, https://tinyurl.com/LEDsDDL)
 Four 220 Ohms Resistors (To protect the LEDs, https://tinyurl.com/resistorDDL)
-One 1K Ohm Resistor		  (To use a button with the board +, https://tinyurl.com/resistorDDL)
-The pump 				        (https://tinyurl.com/pumpDDL)
-Two Button				      (To Interact with the board, https://tinyurl.com/buttonDDL)
+One 1K Ohm Resistor (To use a button with the board +, https://tinyurl.com/resistorDDL)
+The pump (https://tinyurl.com/pumpDDL)
+Two Button (To Interact with the board, https://tinyurl.com/buttonDDL)
 ```  
  *Also, a breadboard or PCB and also Wires and tools needed to solder.*
  
@@ -76,9 +76,8 @@ In this project we've got some folders
 Main features of the program
 ```
 - Distributeur_de_Liquide.ino: That's main program.
-- Scheme_DHT11.pdf: That's the scheme of the numeric thermometer.
 - Components_list.html: This is the list of components needed for this project.
-- Schema & Schema_bb: Are the diagram of the project made on 'Fritzing'.
+- Schema & Schema_bb: Are the diagrams of the project made on 'Fritzing'.
 ```
 
 ## Authors
