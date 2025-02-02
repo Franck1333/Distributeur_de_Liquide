@@ -1,0 +1,16 @@
+Label;Part Type;mn;mpn;part number;
+Composant1;Arduino Mega 2560 (Rev3);;;;
+JACK1;2.1mm Barrel Jack with Terminal Block;;;;
+KY-1;Keyes Relay;;;;
+M1;gear-motor;;;POMPE MEMBRANE - 12V/5A;
+S1;Square Pushbutton;;;;
+S2;Square Pushbutton;;;;
+S3;Square Pushbutton;;;;
+S4;Square Pushbutton;;;;
+
+Amount;Part Type;mn;mpn;part number;
+1;2.1mm Barrel Jack with Terminal Block;;;;
+1;Arduino Mega 2560 (Rev3);;;;
+1;Keyes Relay;;;;
+4;Square Pushbutton;;;;
+1;gear-motor;;;POMPE MEMBRANE - 12V/5A;

@@ -1,0 +1,1376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<netlist date="Sat Feb 1 20:26:34 2025" sketch="Schema_Prototype.fzz">
+ <net>
+  <connector id="connector258" name="5V">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector343" name="5V">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector344" name="5V">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector1" name="power">
+   <part id="66910" label="KY-1" title="Keyes Relay"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="signal">
+   <part id="66910" label="KY-1" title="Keyes Relay"/>
+  </connector>
+  <connector id="connector242" name="D9 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="ground">
+   <part id="66910" label="KY-1" title="Keyes Relay"/>
+  </connector>
+  <connector id="connector237" name="GND">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector260" name="GND">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector259" name="GND">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector377" name="GND">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector378" name="GND">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="Y5" name="Y5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y11" name="Y11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y1" name="Y1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y21" name="Y21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y4" name="Y4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y20" name="Y20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y22" name="Y22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y13" name="Y13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y7" name="Y7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y15" name="Y15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y3" name="Y3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y8" name="Y8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y14" name="Y14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y10" name="Y10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y19" name="Y19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y2" name="Y2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y16" name="Y16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y9" name="Y9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y17" name="Y17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="Y23" name="Y23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="connector1" name="leg1">
+   <part id="59810" label="S1" title="Square Pushbutton"/>
+  </connector>
+  <connector id="connector1" name="leg1">
+   <part id="59860" label="S3" title="Square Pushbutton"/>
+  </connector>
+  <connector id="connector1" name="leg1">
+   <part id="59840" label="S2" title="Square Pushbutton"/>
+  </connector>
+  <connector id="connector1" name="leg1">
+   <part id="59880" label="S4" title="Square Pushbutton"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="NEG">
+   <part id="66760" label="JACK1" title="2.1mm Barrel Jack with Terminal Block"/>
+  </connector>
+  <connector id="connector1" name="pin 2">
+   <part id="67560" label="M1" title="gear-motor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="leg0">
+   <part id="59880" label="S4" title="Square Pushbutton"/>
+  </connector>
+  <connector id="A5" name="A5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D5" name="D5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C5" name="C5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E5" name="E5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B5" name="B5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="connector267" name="D5 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="leg0">
+   <part id="59860" label="S3" title="Square Pushbutton"/>
+  </connector>
+  <connector id="A10" name="A10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C10" name="C10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B10" name="B10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D10" name="D10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E10" name="E10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="connector266" name="D4 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="leg0">
+   <part id="59840" label="S2" title="Square Pushbutton"/>
+  </connector>
+  <connector id="A15" name="A15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E15" name="E15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D15" name="D15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B15" name="B15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C15" name="C15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="connector265" name="D3 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="leg0">
+   <part id="59810" label="S1" title="Square Pushbutton"/>
+  </connector>
+  <connector id="A20" name="A20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D20" name="D20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C20" name="C20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E20" name="E20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B20" name="B20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="connector264" name="D2 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="C">
+   <part id="66910" label="KY-1" title="Keyes Relay"/>
+  </connector>
+  <connector id="connector1" name="POS">
+   <part id="66760" label="JACK1" title="2.1mm Barrel Jack with Terminal Block"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="NO">
+   <part id="66910" label="KY-1" title="Keyes Relay"/>
+  </connector>
+  <connector id="connector0" name="pin 1">
+   <part id="67560" label="M1" title="gear-motor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="NC">
+   <part id="66910" label="KY-1" title="Keyes Relay"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H8" name="H8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J8" name="J8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I8" name="I8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G8" name="G8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F8" name="F8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="C21" name="C21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D21" name="D21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B21" name="B21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A21" name="A21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E21" name="E21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H19" name="H19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I19" name="I19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G19" name="G19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J19" name="J19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F19" name="F19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="A23" name="A23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C23" name="C23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B23" name="B23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D23" name="D23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E23" name="E23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="A17" name="A17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B17" name="B17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D17" name="D17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E17" name="E17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C17" name="C17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="I16" name="I16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F16" name="F16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H16" name="H16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G16" name="G16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J16" name="J16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H17" name="H17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J17" name="J17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G17" name="G17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I17" name="I17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F17" name="F17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="E2" name="E2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A2" name="A2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D2" name="D2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B2" name="B2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C2" name="C2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="J11" name="J11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H11" name="H11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I11" name="I11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G11" name="G11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F11" name="F11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="X15" name="X15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X23" name="X23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X1" name="X1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X2" name="X2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X17" name="X17">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X13" name="X13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X11" name="X11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X9" name="X9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X3" name="X3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X16" name="X16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X10" name="X10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X4" name="X4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X8" name="X8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X5" name="X5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X19" name="X19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X21" name="X21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X7" name="X7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X20" name="X20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X14" name="X14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="X22" name="X22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="B6" name="B6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D6" name="D6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E6" name="E6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C6" name="C6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A6" name="A6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H23" name="H23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J23" name="J23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I23" name="I23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F23" name="F23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G23" name="G23">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="A3" name="A3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B3" name="B3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C3" name="C3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E3" name="E3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D3" name="D3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H18" name="H18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G18" name="G18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I18" name="I18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F18" name="F18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J18" name="J18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="G14" name="G14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H14" name="H14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I14" name="I14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F14" name="F14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J14" name="J14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H2" name="H2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F2" name="F2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J2" name="J2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I2" name="I2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G2" name="G2">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="J15" name="J15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F15" name="F15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G15" name="G15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I15" name="I15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H15" name="H15">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="E7" name="E7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D7" name="D7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A7" name="A7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B7" name="B7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C7" name="C7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="F21" name="F21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H21" name="H21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G21" name="G21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J21" name="J21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I21" name="I21">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="D9" name="D9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E9" name="E9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C9" name="C9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B9" name="B9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A9" name="A9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="C16" name="C16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B16" name="B16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D16" name="D16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E16" name="E16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A16" name="A16">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H1" name="H1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F1" name="F1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J1" name="J1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I1" name="I1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G1" name="G1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="J7" name="J7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G7" name="G7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I7" name="I7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F7" name="F7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H7" name="H7">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="E14" name="E14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D14" name="D14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C14" name="C14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A14" name="A14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B14" name="B14">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="A8" name="A8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E8" name="E8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D8" name="D8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B8" name="B8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C8" name="C8">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="F20" name="F20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G20" name="G20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H20" name="H20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I20" name="I20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J20" name="J20">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="E4" name="E4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D4" name="D4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B4" name="B4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C4" name="C4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A4" name="A4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="F10" name="F10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H10" name="H10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G10" name="G10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I10" name="I10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J10" name="J10">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="E13" name="E13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A13" name="A13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B13" name="B13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C13" name="C13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D13" name="D13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="A22" name="A22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B22" name="B22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C22" name="C22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E22" name="E22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D22" name="D22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="J5" name="J5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H5" name="H5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F5" name="F5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I5" name="I5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G5" name="G5">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="J4" name="J4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G4" name="G4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F4" name="F4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I4" name="I4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H4" name="H4">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="B18" name="B18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A18" name="A18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C18" name="C18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E18" name="E18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D18" name="D18">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="I9" name="I9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G9" name="G9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J9" name="J9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F9" name="F9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H9" name="H9">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="E19" name="E19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C19" name="C19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A19" name="A19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D19" name="D19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B19" name="B19">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="C12" name="C12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E12" name="E12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A12" name="A12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B12" name="B12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D12" name="D12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="G3" name="G3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H3" name="H3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F3" name="F3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I3" name="I3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J3" name="J3">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="J12" name="J12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G12" name="G12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I12" name="I12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H12" name="H12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F12" name="F12">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="H13" name="H13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I13" name="I13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F13" name="F13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="G13" name="G13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J13" name="J13">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="G6" name="G6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H6" name="H6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I6" name="I6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J6" name="J6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F6" name="F6">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="B1" name="B1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C1" name="C1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A1" name="A1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="D1" name="D1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E1" name="E1">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="G22" name="G22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="J22" name="J22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="I22" name="I22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="H22" name="H22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="F22" name="F22">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="D11" name="D11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="C11" name="C11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="A11" name="A11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="B11" name="B11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+  <connector id="E11" name="E11">
+   <part id="69610" label="Breadboard3" title="BB-301"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector268" name="D6 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector52" name="D15/RX3">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector240" name="D11 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector243" name="D8 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector352" name="D29">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector8" name="A0">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector354" name="D31">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector371" name="D48">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector369" name="D46">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector47" name="D20/SDA">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector235" name="SDA">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector346" name="D23">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector10" name="A2">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector348" name="D25">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector360" name="D37">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector49" name="D18/TX1">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector363" name="D40">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector238" name="D13 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector347" name="D24">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector236" name="AREF">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector365" name="D42">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector376" name="D53">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector359" name="D36">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector13" name="A5">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector261" name="VIN">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector6" name="A14">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="A13">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector256" name="RESET">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector257" name="3V3">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector364" name="D41">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector362" name="D39">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector48" name="D19/RX1">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector15" name="A7">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector11" name="A3">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector355" name="D32">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector350" name="D27">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector353" name="D30">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector373" name="D50">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector53" name="D14/TX3">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector255" name="IOREF">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector370" name="D47">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector375" name="D52">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector241" name="D10 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector234" name="SCL">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+  <connector id="connector46" name="D21/SCL">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector14" name="A6">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector7" name="A15">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector51" name="D16 PWM/TX2">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector357" name="D34">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector262" name="D0 RX0">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector361" name="D38">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector358" name="D35">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector356" name="D33">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector263" name="D1 TX0">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector9" name="A1">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="A9">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector12" name="A4">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="A11">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="A10">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A8">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector349" name="D26">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector239" name="D12 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector367" name="D44">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector254" name="IOREF">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector366" name="D43">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector50" name="D17 PWM/RX2">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector368" name="D45">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector351" name="D28">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector345" name="D22">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector269" name="D7 PWM">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector372" name="D49">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector374" name="D51">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="A12">
+   <part id="60280" label="Composant1" title="Arduino Mega 2560 (Rev3)"/>
+  </connector>
+ </net>
+</netlist>
